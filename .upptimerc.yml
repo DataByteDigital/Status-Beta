@@ -2,6 +2,9 @@
 owner: TeamDatabytedigital # Your GitHub organization or username, where this repository lives
 repo: Beta.status.databytedigital.com # The name of this repository
 
+status-website:
+  theme: ocean
+
 sites:
   - name: DataByteDigital - Main Site
     url: https://databytedigital.com
