@@ -1,6 +1,6 @@
 # Change these first
-owner: DataByteDigital # Your GitHub organization or username, where this repository lives
-repo: status.databytedigital.com # The name of this repository
+owner: TeamDatabytedigital # Your GitHub organization or username, where this repository lives
+repo: Beta.status.databytedigital.com # The name of this repository
 
 sites:
   - name: DataByteDigital - Main Site
@@ -24,7 +24,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status1.databytedigital.com
+  cname: teststatus.databytedigital.com
   # baseUrl: /your-repo-name
   logoUrl: https://databytedigital.com/logo.png
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
