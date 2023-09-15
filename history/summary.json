@@ -38,7 +38,7 @@
   {
     "name": "API",
     "url": "https://api.databytedigital.com",
-    "icon": "https://icons.duckduckgo.com/ip3/api.databytedigital.com.ico",
+    "icon": "https://api.databytedigital.com/images/api.png",
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
