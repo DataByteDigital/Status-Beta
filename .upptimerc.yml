@@ -2,9 +2,6 @@
 owner: TeamDatabytedigital # Your GitHub organization or username, where this repository lives
 repo: Beta.status.databytedigital.com # The name of this repository
 
-status-website:
-  theme: ocean
-
 sites:
   - name: DataByteDigital - Main Site
     url: https://databytedigital.com
@@ -25,6 +22,7 @@ sites:
     
 
 status-website:
+  theme: ocean
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: teststatus.databytedigital.com
