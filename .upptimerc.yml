@@ -1,5 +1,5 @@
 # Change these first
-owner: TeamDatabytedigital # Your GitHub organization or username, where this repository lives
+owner: DataByteDigital-Bot # Your GitHub organization or username, where this repository lives
 repo: Beta.status.databytedigital.com # The name of this repository
 
 
@@ -34,6 +34,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: teststatus.databytedigital.com
   # baseUrl: /your-repo-name
+logoUrl: https://databytedigital.com/logo.png
+  
   logoUrl: https://databytedigital.com/logo.png
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: DataByteDigital
