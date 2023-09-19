@@ -4,7 +4,7 @@ repo: Beta.status.databytedigital.com # The name of this repository
 
 
 commitMessages:
-  commitAuthorName: "DataByteDigital Bot"
+  commitAuthorName: "DataByteDigital-Bot"
   commitAuthorEmail: "bot@databytedigital.com"
 
 sites:
