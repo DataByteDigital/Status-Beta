@@ -12,6 +12,7 @@ sites:
     url: https://databytedigital.com
   - name: DataByteDigital - Beta
     url: https://beta.databytedigital.com
+    icon: https://databytedigital.com/logo.png
   - name: API
     url: https://api.databytedigital.com
     icon: https://api.databytedigital.com/images/api.png
@@ -19,10 +20,10 @@ sites:
     url: https://songlyrics.databytedigital.com/
   - name: Bartalap - Social Network
     url: https://bartalap.databytedigital.com
-  - name: Status Page
+  - name: Status Page 
     url: https://status.databytedigital.com
     icon: https://databytedigital.com/logo.png
-  - name: Status Page (Self Hosted)
+  - name: Status Page (Secondary)
     url: https://status1.databytedigital.com
     icon: https://databytedigital.com/logo.png
   - name: Password Generator Service
