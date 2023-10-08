@@ -33,7 +33,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: teststatus.databytedigital.com
+  cname: 1.protidhwani.tk
   # baseUrl: /your-repo-name
   favicon: https://databytedigital.com/logo.png
   logoUrl: https://databytedigital.com/logo.png
