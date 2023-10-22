@@ -31,7 +31,7 @@
     "time": 232,
     "timeDay": 258,
     "timeWeek": 261,
-    "timeMonth": 235,
+    "timeMonth": 236,
     "timeYear": 232,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 165,
-    "timeDay": 162,
-    "timeWeek": 165,
+    "time": 166,
+    "timeDay": 163,
+    "timeWeek": 166,
     "timeMonth": 167,
-    "timeYear": 165,
+    "timeYear": 166,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 145,
+    "time": 146,
     "timeDay": 144,
-    "timeWeek": 146,
+    "timeWeek": 147,
     "timeMonth": 150,
-    "timeYear": 145,
+    "timeYear": 146,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1270,
+    "time": 1269,
     "timeDay": 1164,
-    "timeWeek": 1171,
+    "timeWeek": 1170,
     "timeMonth": 1175,
-    "timeYear": 1270,
+    "timeYear": 1269,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 289,
+    "time": 288,
     "timeDay": 120,
     "timeWeek": 120,
     "timeMonth": 123,
-    "timeYear": 289,
+    "timeYear": 288,
     "dailyMinutesDown": {}
   },
   {
@@ -112,20 +112,18 @@
     "url": "https://status1.databytedigital.com",
     "icon": "https://databytedigital.com/logo.png",
     "slug": "status-page-secondary",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 854,
-    "timeDay": 859,
-    "timeWeek": 856,
-    "timeMonth": 859,
-    "timeYear": 854,
-    "dailyMinutesDown": {
-      "2023-10-22": 0
-    }
+    "time": 858,
+    "timeDay": 864,
+    "timeWeek": 861,
+    "timeMonth": 863,
+    "timeYear": 858,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Password Generator Service",
@@ -138,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
+    "time": 238,
     "timeDay": 140,
-    "timeWeek": 142,
+    "timeWeek": 143,
     "timeMonth": 143,
-    "timeYear": 239,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   }
 ]
