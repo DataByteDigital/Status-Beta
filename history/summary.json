@@ -117,19 +117,17 @@
     "icon": "https://databytedigital.com/logo.png",
     "slug": "status-page-secondary",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 878,
     "timeDay": 885,
     "timeWeek": 880,
     "timeMonth": 880,
     "timeYear": 878,
-    "dailyMinutesDown": {
-      "2023-10-27": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Password Generator Service",
