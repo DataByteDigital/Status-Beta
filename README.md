@@ -29,7 +29,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://1.protidhwani.tk/)
+[**Visit our status website →**](https://databytedigital.github.io/Status-Beta/)
 
 <!--
 ## 📄 License
