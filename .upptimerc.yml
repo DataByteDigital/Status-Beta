@@ -22,6 +22,10 @@ sites:
   - name: DataByteDigital - Beta
     url: https://beta.databytedigital.com
     icon: https://databytedigital.com/logo.png
+  - name: DataByteDigital - test
+    url: https://databytedigital-com.pages.dev
+    # url: https://databytedigital.com/
+    icon: https://databytedigital.com/logo.png
   - name: API
     url: https://api.databytedigital.com
     icon: https://api.databytedigital.com/images/api.png
