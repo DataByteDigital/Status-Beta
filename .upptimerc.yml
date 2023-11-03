@@ -22,9 +22,9 @@ sites:
   - name: DataByteDigital - Beta
     url: https://beta.databytedigital.com
     icon: https://databytedigital.com/logo.png
-  - name: DataByteDigital - test
+  - name: DataByteDigital - Test
     url: https://databytedigital-com.pages.dev
-    # url: https://databytedigital.com/
+    # url: https://test.databytedigital.com/
     icon: https://databytedigital.com/logo.png
   - name: API
     url: https://api.databytedigital.com
@@ -46,8 +46,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: 1.protidhwani.tk
-  # baseUrl: /your-repo-name
+  # cname: 1.protidhwani.tk
+  baseUrl: /Status-Beta
   favicon: https://databytedigital.com/logo.png
   logoUrl: https://databytedigital.com/logo.png
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
