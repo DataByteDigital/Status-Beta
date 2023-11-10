@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 157,
-    "timeWeek": 166,
+    "timeDay": 176,
+    "timeWeek": 169,
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {}
@@ -154,8 +154,8 @@
     "slug": "password-generator-service",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
@@ -163,8 +163,6 @@
     "timeWeek": 463,
     "timeMonth": 164,
     "timeYear": 181,
-    "dailyMinutesDown": {
-      "2023-11-10": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
