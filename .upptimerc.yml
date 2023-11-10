@@ -40,9 +40,6 @@ sites:
     icon: https://databytedigital.com/logo.png
   - name: Password Generator Service
     url: https://passwordgenerator.databytedigital.com/
-  - name: Password Generator Service
-    url: https://nghttp2.org/httpbin/delay/10
-    maxResponseTime: 5000
     
 
 status-website:
