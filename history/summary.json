@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 290,
-    "timeWeek": 260,
+    "timeDay": 289,
+    "timeWeek": 261,
     "timeMonth": 259,
     "timeYear": 255,
     "dailyMinutesDown": {}
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 197,
-    "timeWeek": 140,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "time": 145,
+    "timeDay": 193,
+    "timeWeek": 141,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {}
   },
   {
@@ -65,9 +65,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 197,
-    "timeDay": 133,
-    "timeWeek": 178,
-    "timeMonth": 199,
+    "timeDay": 160,
+    "timeWeek": 182,
+    "timeMonth": 200,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2023-10-27": 17
@@ -85,9 +85,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 156,
-    "timeDay": 159,
-    "timeWeek": 140,
-    "timeMonth": 156,
+    "timeDay": 177,
+    "timeWeek": 145,
+    "timeMonth": 157,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2023-10-27": 17
@@ -105,7 +105,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1216,
-    "timeDay": 1222,
+    "timeDay": 1220,
     "timeWeek": 1202,
     "timeMonth": 1199,
     "timeYear": 1216,
@@ -123,8 +123,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 157,
-    "timeWeek": 136,
+    "timeDay": 165,
+    "timeWeek": 138,
     "timeMonth": 129,
     "timeYear": 162,
     "dailyMinutesDown": {}
@@ -141,8 +141,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 876,
-    "timeDay": 853,
-    "timeWeek": 817,
+    "timeDay": 858,
+    "timeWeek": 820,
     "timeMonth": 878,
     "timeYear": 876,
     "dailyMinutesDown": {}
@@ -152,39 +152,19 @@
     "url": "https://passwordgenerator.databytedigital.com/",
     "icon": "https://icons.duckduckgo.com/ip3/passwordgenerator.databytedigital.com.ico",
     "slug": "password-generator-service",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 1915,
-    "timeWeek": 471,
+    "timeDay": 1669,
+    "timeWeek": 463,
     "timeMonth": 164,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2023-11-10": 1
-    }
-  },
-  {
-    "name": "Password Generator Service",
-    "url": "https://nghttp2.org/httpbin/delay/10",
-    "icon": "https://icons.duckduckgo.com/ip3/nghttp2.org.ico",
-    "slug": "password-generator-service",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 1915,
-    "timeWeek": 471,
-    "timeMonth": 164,
-    "timeYear": 181,
-    "dailyMinutesDown": {
-      "2023-11-10": 1
+      "2023-11-10": 2
     }
   }
 ]
