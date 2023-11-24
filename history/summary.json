@@ -134,19 +134,19 @@
     "url": "https://status1.databytedigital.com",
     "icon": "https://databytedigital.com/logo.png",
     "slug": "status-page-secondary",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 874,
-    "timeDay": 891,
-    "timeWeek": 882,
-    "timeMonth": 872,
+    "timeDay": 907,
+    "timeWeek": 885,
+    "timeMonth": 871,
     "timeYear": 874,
     "dailyMinutesDown": {
-      "2023-11-24": 0
+      "2023-11-24": 9
     }
   },
   {
@@ -163,7 +163,7 @@
     "time": 179,
     "timeDay": 121,
     "timeWeek": 149,
-    "timeMonth": 173,
+    "timeMonth": 174,
     "timeYear": 179,
     "dailyMinutesDown": {}
   }
