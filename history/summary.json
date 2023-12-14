@@ -136,8 +136,8 @@
     "slug": "status-page-secondary",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 874,
@@ -146,7 +146,7 @@
     "timeMonth": 863,
     "timeYear": 874,
     "dailyMinutesDown": {
-      "2023-12-14": 0
+      "2023-12-14": 2
     }
   },
   {
