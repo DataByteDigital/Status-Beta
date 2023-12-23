@@ -116,19 +116,19 @@
     "url": "https://status.databytedigital.com",
     "icon": "https://databytedigital.com/logo.png",
     "slug": "status-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 913,
-    "timeWeek": 1196,
-    "timeMonth": 444,
-    "timeYear": 197,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 198,
+    "timeDay": 921,
+    "timeWeek": 1188,
+    "timeMonth": 448,
+    "timeYear": 198,
     "dailyMinutesDown": {
-      "2023-12-23": 0
+      "2023-12-23": 14
     }
   },
   {
