@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 106,
-    "timeWeek": 112,
+    "timeDay": 99,
+    "timeWeek": 114,
     "timeMonth": 127,
     "timeYear": 150,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 256,
-    "timeWeek": 262,
+    "timeDay": 218,
+    "timeWeek": 265,
     "timeMonth": 259,
     "timeYear": 256,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 150,
-    "timeWeek": 142,
+    "timeDay": 117,
+    "timeWeek": 141,
     "timeMonth": 148,
     "timeYear": 144,
     "dailyMinutesDown": {}
@@ -65,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 190,
-    "timeDay": 194,
-    "timeWeek": 146,
+    "timeDay": 174,
+    "timeWeek": 147,
     "timeMonth": 159,
     "timeYear": 190,
     "dailyMinutesDown": {
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 154,
-    "timeDay": 145,
-    "timeWeek": 151,
-    "timeMonth": 149,
+    "timeDay": 135,
+    "timeWeek": 152,
+    "timeMonth": 148,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2023-10-27": 17
@@ -105,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1212,
-    "timeDay": 1244,
-    "timeWeek": 1190,
-    "timeMonth": 1186,
+    "timeDay": 1216,
+    "timeWeek": 1191,
+    "timeMonth": 1188,
     "timeYear": 1212,
     "dailyMinutesDown": {}
   },
@@ -116,18 +116,20 @@
     "url": "https://status.databytedigital.com",
     "icon": "https://databytedigital.com/logo.png",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 884,
-    "timeWeek": 1216,
-    "timeMonth": 439,
+    "timeDay": 913,
+    "timeWeek": 1196,
+    "timeMonth": 444,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-23": 0
+    }
   },
   {
     "name": "Password Generator Service",
@@ -141,9 +143,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 120,
-    "timeWeek": 163,
-    "timeMonth": 169,
+    "timeDay": 125,
+    "timeWeek": 164,
+    "timeMonth": 168,
     "timeYear": 178,
     "dailyMinutesDown": {}
   }
